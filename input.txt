@@ -1,0 +1,2 @@
+To jest przykładowy plik.
+Zawiera kilka linijek tekstu.
